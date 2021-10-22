@@ -4,5 +4,4 @@ This directory contains source codes for Lab 02.
 
 ## Output from Exercise 1
 
-![image] 
-(https://github.com/amrhmar/dadrepository/blob/main/workspace-dadlabs/lab02/images/OutputRoundingApplication.png)
+![image](https://user-images.githubusercontent.com/66362312/138385967-9dfa7980-84e5-44f1-962b-b213353db87c.png)
