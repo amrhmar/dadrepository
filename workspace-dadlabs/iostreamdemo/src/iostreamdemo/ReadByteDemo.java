@@ -5,7 +5,7 @@ import java.io.FileInputStream;
 /**
  * This program demonstrate reading data from a file using FileInputStream
  * 
- * @author emalianakasmuri
+ * @author Amirah Mardhiah
  *
  */
 

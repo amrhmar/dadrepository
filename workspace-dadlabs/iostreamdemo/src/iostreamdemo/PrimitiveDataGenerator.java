@@ -9,7 +9,7 @@ import java.io.FileOutputStream;
  * 
  * The data represents bed utilization for COVID-19 cases in several states of Malaysia.
  * 
- * @author emalianakasmuri
+ * @author Amirah Mardhiah
  *
  */
 

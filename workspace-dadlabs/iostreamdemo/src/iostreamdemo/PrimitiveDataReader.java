@@ -11,7 +11,7 @@ import java.io.FileInputStream;
  * 
  * The program calculates the average bed utilization and display it on the console.
  * 
- * @author emalianakasmuri
+ * @author Amirah Mardhiah
  *
  */
 

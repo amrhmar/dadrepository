@@ -7,7 +7,7 @@ import java.io.IOException;
  * This program demonstrate writing data as byte using FileOutputStream.
  * 
  * 
- * @author emalianakasmuri
+ * @author Amirah Mardhiah
  *
  */
 
