@@ -35,7 +35,7 @@ public class Exercise5Reader {
 					Oct21 = bis.read();
 
 					
-					System.out.println("\t"  + Oct16 + "\t" + Oct17
+					System.out.println( + Oct16 + "\t" + Oct17
 							+ "\t" + Oct18 + "\t" + Oct19 + "\t" + Oct20
 							+ "\t" + Oct21);
 
