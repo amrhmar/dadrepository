@@ -7,10 +7,8 @@ public class Exercise5Writer {
 	
 public static void main(String[] args) {
 		
-	// 1. Declare output file 
 			String outFile = "Exercise5.txt";
 
-			// Data declaration			
 			String StationID[] = {"2125002", "2324033", 
 					"2322006", "2222002", 
 					"2222033", "2222007"};
@@ -34,10 +32,8 @@ public static void main(String[] args) {
 			
 			try {
 
-				// 2. Create stream to read data
 				BufferedOutputStream bos = new BufferedOutputStream (new FileOutputStream(outFile));
 
-				// 3. Write data into buffer
 				for (int index = 0; index < StationID.length; index++) {
 					
 					byte utlization1 = (byte) Oct16[index];
@@ -54,11 +50,9 @@ public static void main(String[] args) {
 					bos.write(utlization5);
 					bos.write(utlization6);
 
-					// 4. Flush for each writing
 					bos.flush();
 				}
 
-				// 5. Close stream
 				bos.close();
 
 			} catch (Exception ex) {
@@ -66,7 +60,6 @@ public static void main(String[] args) {
 				ex.printStackTrace();
 			}
 
-			// Indicate end of program - Could be successful
 			System.out.println("End of program. Check out " + outFile); 
 
 		}
