@@ -10,3 +10,8 @@ This directory contains source codes for Lab 03.
 ### Output Exercise 4
 ![image](https://user-images.githubusercontent.com/66362312/138410390-eb2516b4-3b54-4609-8166-004a26126743.png)
 
+### Output Exercise 5
+![image](https://user-images.githubusercontent.com/66362312/138581731-521a6502-1432-4d9e-9e65-b62103056f70.png)
+
+
+
