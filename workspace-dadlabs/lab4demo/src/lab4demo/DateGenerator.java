@@ -2,8 +2,8 @@ package lab4demo;
 
 import java.util.Date;
 
-
 public class DateGenerator {
+	
 
 	/**
 	 * This method generates current date
