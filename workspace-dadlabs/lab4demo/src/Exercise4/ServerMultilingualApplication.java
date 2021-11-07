@@ -13,11 +13,11 @@ public static void main(String[] args) throws IOException {
 		
 		try {
 			//Bind Serversocket to a port
-			int portNo = 4237;
+			int portNo = 4255;
 			serverSocket = new ServerSocket(portNo);
 			
-			String text1 = "Good Morning";
-			String text2 = "Selamat Pagi";
+			String text1 = "Good Morning" + "\t Selamat Pagi" + "\t Sobahul Khair" + "\t Joh-Eun Achim" + "\n" + "Good Night";
+			String text2 = "Good Night"+ "\t Selamat Malam" + "\t Tab Masawuk" + "\t Annyeonghi Jumuseyo ";
 			String text3 = "Sobahul Khair";
 			String text4 = "Joh-Eun Achim";
 			System.out.println("Waiting for request");

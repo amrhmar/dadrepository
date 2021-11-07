@@ -13,7 +13,7 @@ public static void main(String[] args) {
 		
 		try {
 			// Connect to the server at localhost, port 4236
-			Socket socket = new Socket(InetAddress.getLocalHost(), 4237);
+			Socket socket = new Socket(InetAddress.getLocalHost(), 4255);
 			
 			// Create input stream 
 			BufferedReader bufferedReader = new BufferedReader(
