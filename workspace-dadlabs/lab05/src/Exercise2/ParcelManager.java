@@ -22,7 +22,7 @@ public class ParcelManager {
 		
 	}
 	
-private double WeightKG () {
+private double WeightKG (double d) {
 	
 	int WeightKG = 0;
 		
