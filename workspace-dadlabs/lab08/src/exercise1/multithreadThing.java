@@ -1,4 +1,4 @@
-package exercise1.simple.multithreading.application;
+package exercise1;
 
 import java.util.Date;
 
